@@ -60,7 +60,8 @@ Website Goal:
 
 ### Home
 
-- 
+![alt text](<Images/wireframe no colour.png>)
+![alt text](<Images/Phone wireframe.png>)
 
 ## Technologies
 
