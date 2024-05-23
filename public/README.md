@@ -5,6 +5,9 @@ Welcome to the Simon Game! This project is a web-based implementation of the cla
 ## Table of Contents
 
 - [Purpose](#purpose)
+- [UX Design](#ux-design)
+- [Structure](#structure)
+- [Wireframe](#wireframe)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
@@ -22,7 +25,42 @@ The Simon Game was developed to provide an engaging and entertaining way to impr
 
 The game is built using HTML, CSS and Javascript as a Milestone Project#2 for the Code Institute's Web Development course.
 
+The live website is available here: https://react-native-step-out.web.app/
 
+## UX Design
+
+### User stories
+
+As a first time user
+- I want to easily understand the main purpose of the game
+- I want to be able to navigate easily and play the game
+- I want to enjoy myself
+- I want to be able to play on multiple devices
+
+## Structure
+
+### Home Page
+
+- Introduces the movement and the main area 
+- Provides a complete overview of the subject
+- Grabs the user's attention and grips it with a bold design and entertaining look
+
+User Goal:
+- Understand the main purpose of the website
+- Ability to see every section of the website
+- Easily navigate and interact with the website
+- Enjoyment in playing the game 
+
+Website Goal:
+- Interest and engage the user
+- Presents the user with a preview of all content sections
+- Entertain the user
+
+## Wireframe
+
+### Home
+
+- 
 
 ## Technologies
 
@@ -62,13 +100,16 @@ To run this project locally, follow these steps:
 - Tracks the current level and highest score achieved.
 - Modal popup for losing the game with an option to retry.
 - Data Validation
+
 ## File Structure
 
 ```
 simon-game/
-index.html
-styles/
+css/
    style.css
+Images/
+   mockup devices.png
+   wireframe no colour.png
 JavaScript/
    main.js
 resources/
@@ -78,8 +119,9 @@ resources/
    lose.wav
    try.wav
    start.wav
-simon_logo.svg
+index.html
 README.md
+simon_logo.svg
 ```
 ##  **Testing and Maintenance**
 
