@@ -12,3 +12,12 @@ const arrayMain = [];
 const arrayInGame = [];
 let highestScore = 0;
 let currentScore = 0;
+
+// fuction to reset game 
+function resetGame() {
+    arrayMain.length = arrayInGame.length = currentScore = 0;
+    levelText.innerText = "Level " + 1;
+
+    startButton.innerText = "Start";
+    disableBoxButton(true, true);
+    disbleStartButton(false);
