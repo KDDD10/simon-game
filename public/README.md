@@ -1,13 +1,10 @@
  # Simon Game
 
-<img src="mockup">
-
 Welcome to the Simon Game! This project is a web-based implementation of the classic memory game "Simon," where players must repeat increasingly complex sequences of colors.
 
 ## Table of Contents
 
-- [Description](#description)
-- [Rationale](#rationale)
+- [Purpose](#purpose)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
@@ -17,13 +14,15 @@ Welcome to the Simon Game! This project is a web-based implementation of the cla
 - [Credits](#credits)
 
 
-## Description
+## Purpose
 
 The Simon Game challenges players to remember and repeat sequences of colors. Each round, a new color is added to the sequence. Players must correctly recall the entire sequence to advance to the next level. The game tracks the highest score achieved during the session.
 
-## Rationale
-
 The Simon Game was developed to provide an engaging and entertaining way to improve memory, concentration. By focusing on a simple yet challenging task, players can enhance their mental agility. The game is designed to be fully responsive, ensuring accessibility and optimal user experience across various devices.
+
+The game is built using HTML, CSS and Javascript as a Milestone Project#2 for the Code Institute's Web Development course.
+
+
 
 ## Technologies
 
