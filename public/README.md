@@ -116,7 +116,11 @@ As the Simon Game is based of an existing game, the design is similar to others 
 
 ### Colour Scheme
 
-The colours are same four in every version of a Simon Game. These colours are yellow, green, blue and red. I did use the colour black for the background colour and to keep the writing on the web page visual for users so that they can keep track with their scores. 
+The colours are same four in every version of a Simon Game. These colours are yellow, green, blue and red. I did use the colour black for the background colour and to keep the writing on the web page visual for users so that they can keep track with their scores. Not all of the background is black, I used the colour yellow too so that it can counter the darkness of all the black and mkae it a little lighter.
+
+Here is how the game looks on the web page so you can see how the colours look together for yourself
+
+Live website here: https://react-native-step-out.web.app/
 
 ## File Structure
 
