@@ -68,12 +68,12 @@ Website Goal:
 
 ## Technologies
 
-- HTML
-- CSS 
-- JavaScript
-- Github, to host
-- Balsamiq, to design the wireframes
-- Techsini, to create the mockup image in the readme file
+- HTML to accomplish the structure of the website
+- CSS to style the website
+- JavaScript to make the web page interactive
+- Github to host the source code and Github Pages to deploy and host the live site
+- Balsamiq to design the wireframes
+- Techsini to create the mockup image in this readme file
 
 ## Setup
 
