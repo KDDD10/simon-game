@@ -14,6 +14,7 @@ Welcome to the Simon Game! This project is a web-based implementation of the cla
 - [Setup](#setup)
 - [Usage](#usage)
 - [Features](#features)
+- [Design](#design)
 - [File Structure](#file-structure)
 - [Testing and Maintenance](#testing-and-maintenance)
 - [Credits](#credits)
@@ -104,6 +105,18 @@ To run this project locally, follow these steps:
 - Tracks the current level and highest score achieved.
 - Modal popup for losing the game with an option to retry.
 - Data Validation
+
+### Responsive Layout 
+
+The website is made to be adaptable, fluid, responsive, and aesthetically pleasing across all screen sizes and resolutions. The website has mobile counterparts, which are smaller and have different aspect ratios, to guarantee optimal performance on mobile devices. This is because of how essential the game is to convey the website's semantics and intended experience for users. This became crucial. 
+
+## Design
+
+As the Simon Game is based of an existing game, the design is similar to others made before the creation of mine. 
+
+### Colour Scheme
+
+The colours are same four in every version of a Simon Game. These colours are yellow, green, blue and red. I did use the colour black for the background colour and to keep the writing on the web page visual for users so that they can keep track with their scores. 
 
 ## File Structure
 
