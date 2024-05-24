@@ -1,5 +1,7 @@
  # Simon Game
 
+ ![alt text](<Images/mockup devices.png>)
+
 Welcome to the Simon Game! This project is a web-based implementation of the classic memory game "Simon," where players must repeat increasingly complex sequences of colors.
 
 ## Table of Contents
@@ -66,8 +68,11 @@ Website Goal:
 ## Technologies
 
 - HTML
-- CSS
+- CSS 
 - JavaScript
+- Github, to host
+- Balsamiq, to design the wireframes
+- Techsini, to create the mockup image in the readme file
 
 ## Setup
 
@@ -82,8 +87,6 @@ To run this project locally, follow these steps:
     cd simon-game
     ```
 3. Open `index.html` in your preferred web browser.
-
-
 
 ## Usage
 
