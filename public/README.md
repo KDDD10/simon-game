@@ -149,6 +149,39 @@ simon_logo.svg
 #### Objective:
 Ensure the game is free of defects, meets all requirements and remains functional and up-to-date post-deployment.
 
+
+### Manual Testing
+In order to find faults, flaws, and other problems in software applications without the use of automated technologies, manual testing entails reviewing and testing the application by hand while mimicking the actions of a real user.
+
+*[BrowserStack](https://www.browserstack.com/)
+   * Used for Manual Testing
+
+Using BrowserStack, I was able to test my design on Mobile and Laptop layouts, checking if its functional on all platforms and softwares. Ran tests on 'android', 'iphone', multiple window IPs and more. All tests worked fine as usual. 
+
+
+### Automated Testing
+Automated testing is a software testing process that employs technologies to do tests without of human interaction. These tests mimic button clicks, data entry, and outcome verification that users would perform on a website. Prior to release, the software must be verified for functionality, performance, and dependability and to make sure it satisfies all requirements.
+
+*[W3C Markup Validation Service](https://validator.w3.org/)
+ * Used for testing html
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+  * Used for testing css
+
+Unfortunately due to lack of experience and time, I didn't get to test the Javascript itself. I was going to use [Jasmine](https://jasmine.github.io/pages/getting_started.html). 
+
+### Bugs
+While running automated tests I did come across some warnings that I didn't get round to fixing. 
+
+For the HTML, my bugs were:
+
+*Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed.
+*Consider using the h1 element as a top-level heading only (all h1 elements are treated as top-level headings by many screen readers and other tools).
+
+For the CSS, my bug was:
+
+*55	.box	opacity is not a transition-duration value : opacity 0.5s,box-shadow 0.2s,transform 1s
+
+
 #### Testing Activities:
 - Perform integration testing to ensure all components work together seamlessly.
 - Conduct system testing to verify the game functions correctly as a whole.
